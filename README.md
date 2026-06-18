@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Eva Arliana 👋
 
-<!--
-**evaarliana/evaarliana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst
 
-Here are some ideas to get you started:
+Currently working as a Presales and transitioning into Data Analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+* Diploma in Informatics Engineering
+* Experienced in Presales and Solution Support
+* Passionate about SQL, Power BI, and Data Analysis
+* Currently learning Python and Data Analytics
+
+## Skills
+
+* SQL
+* Power BI
+* Excel
+* Python (Learning)
+
+## Featured Project
+
+### Customer Behavior Analysis
+
+Analyze customer behavior and sales performance using SQL and Power BI.
+
+🔗 Project:
+https://github.com/evaarliana/deepp-customer-analysis
+
+## Connect With Me
+
+* LinkedIn
