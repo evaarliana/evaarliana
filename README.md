@@ -1,25 +1,29 @@
 # Hi, I'm Eva Arliana 👋
 
-Data Analyst Enthusiast with a background in Presales and Informatics Technology.
+Data Analytics Enthusiast with a background in Presales and Informatics Technology.
 
-Passionate about transforming data into actionable business insights through SQL, Python, Power BI, and data visualization.
+Experienced in transforming business requirements into actionable insights through Spreadsheet, SQL, Python, Tableau, and Power BI.
 
-Currently building end-to-end analytics projects and expanding my expertise in Business Intelligence and Data Analytics.
+Passionate about data visualization, business intelligence, and solving business problems with data-driven approaches.
 
 ## About Me
 
 - Diploma in Informatics Engineering
 - 3+ years of experience in Presales and Solution Support
-- Skilled in SQL, Python, Power BI, Tableau, and Excel
-- Interested in Business Intelligence, Data Visualization, and Analytics
-- Currently transitioning into a Data Analyst role  
+- Experienced in Spreadsheet Analysis, SQL, Python, Tableau, and Power BI
+- Developed end-to-end analytics projects from data preparation to dashboard development
+- Passionate about turning data into actionable business insights
 
-## Skills
+## Technical Skills
 
-* SQL
-* Power BI
-* Excel
-* Python (Learning)
+- Spreadsheet (Excel & Google Sheets)
+- SQL
+- Python
+- Tableau
+- Power BI
+- Data Cleaning & Exploratory Data Analysis (EDA)
+- Data Visualization
+- Dashboard Development
 
 ## Featured Project
 
