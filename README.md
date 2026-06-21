@@ -46,4 +46,6 @@ Interactive dashboards built using Tableau and Power BI to monitor business perf
 
 💼 LinkedIn: [linkedin.com/in/evaarliana](https://www.linkedin.com/in/evaarliana)
 
+📊 Tableau Public: [View Dashboard Portfolio](https://public.tableau.com/app/profile/eva.arliana)
+
 📧 Email: [evarliana1@gmail.com](mailto:evarliana1@gmail.com)
