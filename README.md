@@ -43,10 +43,10 @@ Interactive dashboard for business performance monitoring.
 
 ## Connect With Me
 
-<a href="linkedin.com/in/evaarliana">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evaarliana)
 
-<a href="mailto:evarliana1@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
-</a>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:evarliana1@gmail.com)
+
+💼 LinkedIn: linkedin.com/in/evaarliana
+
+📧 Email: evarliana1@gmail.com
