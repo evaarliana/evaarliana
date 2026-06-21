@@ -12,7 +12,7 @@ Passionate about data visualization, business intelligence, and solving business
 - 3+ years of experience in Presales and Solution Support
 - Developed end-to-end analytics projects from data preparation to dashboard development
 - Interested in Business Intelligence, Data Visualization, and Analytics
-- Currently transitioning into a Data Analyst role
+- Open to Data Analyst and Business Intelligence opportunities
 
 ## Skills
 
