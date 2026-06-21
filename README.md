@@ -10,20 +10,19 @@ Passionate about data visualization, business intelligence, and solving business
 
 - Diploma in Informatics Engineering
 - 3+ years of experience in Presales and Solution Support
-- Experienced in Spreadsheet Analysis, SQL, Python, Tableau, and Power BI
 - Developed end-to-end analytics projects from data preparation to dashboard development
-- Passionate about turning data into actionable business insights
+- Interested in Business Intelligence, Data Visualization, and Analytics
+- Currently transitioning into a Data Analyst role
 
-## Technical Skills
+## Skills
 
 - Spreadsheet (Excel & Google Sheets)
-- SQL
+- SQL (BigQuery)
 - Python
 - Tableau
 - Power BI
-- Data Cleaning & Exploratory Data Analysis (EDA)
 - Data Visualization
-- Dashboard Development
+- Business Analytics
 
 ## Featured Project
 
