@@ -24,15 +24,29 @@ Passionate about data visualization, business intelligence, and solving business
 - Data Visualization
 - Business Analytics
 
-## Featured Project
+## Portfolio Projects
 
-### Customer Behavior Analysis
+### 🏆 E-Commerce Customer Analytics
+Final capstone project using SQL, Python, and Power BI.
 
-Analyze customer behavior and sales performance using SQL and Power BI.
+### 📊 Spreadsheet Business Analysis
+Data cleaning, KPI analysis, and business metrics using spreadsheets.
 
-🔗 Project:
-https://github.com/evaarliana/deepp-customer-analysis
+### 🗄️ SQL Customer Analysis
+Customer segmentation and revenue analysis using BigQuery SQL.
+
+### 🐍 Python Exploratory Data Analysis
+Data cleaning, EDA, and customer behavior analysis using Python.
+
+### 📈 Tableau Dashboard
+Interactive dashboard for business performance monitoring.
 
 ## Connect With Me
 
-* LinkedIn
+<a href="linkedin.com/in/evaarliana">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:evarliana1@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
+</a>
