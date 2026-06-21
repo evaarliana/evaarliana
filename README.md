@@ -1,15 +1,18 @@
 # Hi, I'm Eva Arliana 👋
 
-Aspiring Data Analyst
+Data Analyst Enthusiast with a background in Presales Engineering and Informatics Technology.
 
-Currently working as a Presales and transitioning into Data Analytics.
+Passionate about transforming data into actionable business insights through SQL, Python, Power BI, and data visualization.
+
+Currently building end-to-end analytics projects and expanding my expertise in Business Intelligence and Data Analytics.
 
 ## About Me
 
-* Diploma in Informatics Engineering
-* Experienced in Presales and Solution Support
-* Passionate about SQL, Power BI, and Data Analysis
-* Currently learning Python and Data Analytics
+- Diploma in Informatics Engineering
+- 3+ years of experience in Presales and Solution Support
+- Skilled in SQL, Python, Power BI, Tableau, and Excel
+- Interested in Business Intelligence, Data Visualization, and Analytics
+- Currently transitioning into a Data Analyst role  
 
 ## Skills
 
