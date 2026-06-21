@@ -1,6 +1,6 @@
 # Hi, I'm Eva Arliana 👋
 
-Data Analyst Enthusiast with a background in Presales Engineering and Informatics Technology.
+Data Analyst Enthusiast with a background in Presales and Informatics Technology.
 
 Passionate about transforming data into actionable business insights through SQL, Python, Power BI, and data visualization.
 
