@@ -38,8 +38,9 @@ Customer segmentation and revenue analysis using BigQuery SQL.
 ### 🐍 Python Exploratory Data Analysis
 Data cleaning, EDA, and customer behavior analysis using Python.
 
-### 📈 Tableau Dashboard
-Interactive dashboard for business performance monitoring.
+### 📊 Dashboard Development
+
+Interactive dashboards built using Tableau and Power BI to monitor business performance, customer behavior, and key business metrics.
 
 ## Connect With Me
 
