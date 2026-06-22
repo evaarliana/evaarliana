@@ -38,8 +38,8 @@ Interactive Tableau dashboard for operational and revenue performance monitoring
 
 ## Connect With Me
 
-💼 LinkedIn: linkedin.com/in/evaarliana
+💼 LinkedIn: [linkedin.com/in/evaarliana](https://www.linkedin.com/in/evaarliana) 
 
-📊 Tableau Public: public.tableau.com/app/profile/eva.arliana
+📊 Tableau Public: [View Dashboard Portfolio](https://public.tableau.com/app/profile/eva.arliana) 
 
 📧 Email: [evarliana1@gmail.com](mailto:evarliana1@gmail.com)
