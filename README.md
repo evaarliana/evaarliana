@@ -26,19 +26,23 @@ Passionate about data visualization, business intelligence, and solving business
 
 ## Portfolio Projects
 
-### 🏆 E-Commerce Customer Analytics
+🏆 E-Commerce Customer Analysis
 Final capstone project using SQL, Python, and Power BI.
 
-### 📊 Spreadsheet Business Analysis
-Data cleaning, KPI analysis, and business metrics using spreadsheets.
+🏢 Corporate Profitability Analysis
+Business problem solving and profitability analysis using stakeholder mapping and root cause analysis.
 
-### 🗄️ SQL Customer Analysis
-Customer segmentation and revenue analysis using BigQuery SQL.
+🛒 TokoBli Campaign Analysis
+A/B testing and campaign performance analysis using Google Sheets.
 
-### 🐍 Python Exploratory Data Analysis
-Data cleaning, EDA, and customer behavior analysis using Python.
+💳 RevoBank Customer Segmentation
+Customer segmentation and business insights using SQL and BigQuery.
 
-### 📊 Dashboard Development
+🛍️ RevoGrocers Sales Analysis
+Sales performance and customer behavior analysis using SQL.
+
+🏥 RevoHospital Performance Dashboard
+Operational and revenue performance dashboard using Tableau Public.
 
 Interactive dashboards built using Tableau and Power BI to monitor business performance, customer behavior, and key business metrics.
 
