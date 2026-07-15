@@ -42,4 +42,4 @@ Interactive Tableau dashboard for operational and revenue performance monitoring
 
 📊 Tableau Public: [View Dashboard Portfolio](https://public.tableau.com/app/profile/eva.arliana) 
 
-📧 Email: [evarliana1@gmail.com](mailto:evarliana1@gmail.com)
+📧 Email: [evaarliana1@gmail.com](mailto:evaarliana1@gmail.com)
