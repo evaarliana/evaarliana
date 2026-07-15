@@ -24,17 +24,17 @@ Passionate about data visualization, business intelligence, and solving business
 
 ## Featured Projects
 
-🏆 **E-Commerce Customer Analysis**
-End-to-end analytics project using SQL, Python, and Power BI.
+🎓 AI Student Performance Analysis  
+Analyzed the impact of Generative AI on academic performance, learning retention, and student well-being using Python and Power BI.
 
-🐍 **RevoBank Customer Segmentation**
-Customer segmentation using feature engineering and K-Means clustering.
+🛒 E-Commerce Customer Analysis  
+End-to-end customer analytics using SQL, Python, and Power BI to uncover purchasing behavior and revenue insights.
 
-🗄️ **TheLook Retention Analysis**
-Customer retention and cohort analysis using Google BigQuery SQL.
+💼 Corporate Profitability Analysis  
+Business profitability analysis with KPI development, root cause analysis, and strategic recommendations using Power BI.
 
-🏥 **RevoHospital Performance Dashboard**
-Interactive Tableau dashboard for operational and revenue performance monitoring.
+🐍 RevoBank Customer Segmentation  
+Customer segmentation using feature engineering, data preprocessing, and K-Means clustering in Python.
 
 ## Connect With Me
 
