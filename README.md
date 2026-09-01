@@ -2,44 +2,52 @@
 
 Data Analytics Enthusiast with a background in Presales and Informatics Technology.
 
-Experienced in transforming business requirements into actionable insights through SQL, Python, Tableau, Power BI, and Business Analytics.
+Experienced in translating business requirements into data-driven insights through SQL, Python, Power BI, Tableau, and business analysis.
 
-Passionate about data visualization, business intelligence, and solving business problems with data-driven approaches.
+Passionate about business intelligence, data visualization, customer analytics, and solving business problems through data.
 
 ## About Me
 
 * Diploma in Informatics Engineering
 * 3+ years of experience in Presales and Solution Support
-* Developed end-to-end analytics projects from data preparation to dashboard development
-* Interested in Business Intelligence, Data Visualization, and Customer Analytics
+* Experienced in translating business requirements into analytical solutions
+* Developed end-to-end analytics projects from data preparation and analysis to dashboard development
+* Interested in Data Analytics, Business Intelligence, and Data Visualization
 * Open to Data Analyst and Business Intelligence opportunities
 
 ## Tech Stack
 
-📊 Spreadsheet (Excel & Google Sheets)
-🗄️ SQL (BigQuery)
-🐍 Python
-📈 Tableau
-📊 Power BI
+📊 Spreadsheet — Excel & Google Sheets  
+🗄️ SQL — BigQuery  
+🐍 Python — Pandas, NumPy, Matplotlib, Scikit-learn  
+📈 Tableau  
+📊 Power BI  
+💡 Business Analysis
 
 ## Featured Projects
 
-🎓 AI Student Performance Analysis  
-Analyzed the impact of Generative AI on academic performance, learning retention, and student well-being using Python and Power BI.
+📦 **Demand Forecasting & Inventory Planning**  
+Demand forecasting and inventory planning analysis for Q-Commerce using historical demand patterns and forecasting techniques.
 
-🛒 E-Commerce Customer Analysis  
-End-to-end customer analytics using SQL, Python, and Power BI to uncover purchasing behavior and revenue insights.
+🎓 **AI Student Performance Insights**  
+Analyzed the relationship between Generative AI usage, academic performance, and student well-being using Python and Power BI.
 
-💼 Corporate Profitability Analysis  
-Business profitability analysis with KPI development, root cause analysis, and strategic recommendations using Power BI.
+💰 **Finance Portfolio & Risk Insights**  
+Analyzed customer and loan portfolio data to identify credit risk patterns and portfolio performance insights using SQL and Tableau.
 
-🐍 RevoBank Customer Segmentation  
-Customer segmentation using feature engineering, data preprocessing, and K-Means clustering in Python.
+🛒 **E-Commerce Customer & Revenue Insights**  
+Analyzed customer purchasing behavior and revenue drivers using SQL and Power BI to identify growth opportunities.
+
+👥 **Customer Segmentation & Transaction Insights**  
+Performed customer segmentation and transaction analysis using Python and K-Means clustering to identify behavioral and financial segments.
+
+📈 **Corporate Profitability Insights**  
+Analyzed the drivers of Corporate segment profit decline through root cause analysis and developed data-driven business recommendations.
 
 ## Connect With Me
 
-💼 LinkedIn: [linkedin.com/in/evaarliana](https://www.linkedin.com/in/evaarliana) 
+💼 LinkedIn: [linkedin.com/in/evaarliana](https://www.linkedin.com/in/evaarliana)
 
-📊 Tableau Public: [View Dashboard Portfolio](https://public.tableau.com/app/profile/eva.arliana) 
+📊 Tableau Public: [View Dashboard Portfolio](https://public.tableau.com/app/profile/eva.arliana)
 
 📧 Email: [evaarliana1@gmail.com](mailto:evaarliana1@gmail.com)
